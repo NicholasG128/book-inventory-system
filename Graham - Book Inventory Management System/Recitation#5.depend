@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1699954706 source:c:\users\compu\onedrive\documents\buffstateinfo\cis251\recitation#5\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	"bookType.h"
+	"shelfSpace.h"
+	"shelf.h"
+	<iomanip>
+
+1699951131 c:\users\compu\onedrive\documents\buffstateinfo\cis251\recitation#5\include\booktype.h
+	<iostream>
+
+1699952655 source:c:\users\compu\onedrive\documents\buffstateinfo\cis251\recitation#5\src\shelfspace.cpp
+	<iostream>
+	"shelfSpace.h"
+	"bookType.h"
+
+1699952655 c:\users\compu\onedrive\documents\buffstateinfo\cis251\recitation#5\include\shelfspace.h
+	"bookType.h"
+
+1699954762 source:c:\users\compu\onedrive\documents\buffstateinfo\cis251\recitation#5\src\booktype.cpp
+	<iostream>
+	<iomanip>
+	"bookType.h"
+
+1699954194 source:c:\users\compu\onedrive\documents\buffstateinfo\cis251\recitation#5\src\shelf.cpp
+	"shelf.h"
+
+1699940009 c:\users\compu\onedrive\documents\buffstateinfo\cis251\recitation#5\include\shelf.h
+	<shelfSpace.h>
+
